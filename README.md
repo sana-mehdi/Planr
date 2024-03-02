@@ -32,4 +32,4 @@ We used the Todoist API to create a task tracker. It aided with the creation of 
 
 
 **Software Specification**
-This app is exactly is a task tracker. Our app allows users to input their tasks into it. We then list their tasks in the order they gave to us and keep it ready for their use whenever they want to use it. The app also allows the user to check the box of the task they completed so they know what has been done and what has not. This app allows users to see everything they still have to do and to make sure they plan accordingly. 
+Our app allows users to input their tasks, listing their tasks in the order they gave to us and keep it ready for their use whenever they want to use it. The app also allows the user to check the box of the task they completed so they know what has been done and what has not. This app allows users to see everything they still have to do and to make sure they plan accordingly. 
