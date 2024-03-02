@@ -1,4 +1,4 @@
-# Group Project
+# Planr
 CSC207 Group Project
 
 **Description of the Problem Domain:**
